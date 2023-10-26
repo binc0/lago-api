@@ -19,5 +19,5 @@ it:
     sub_total_without_tax: Subtotale (escl. tasse)
     subscription: Abbonamento
     tax: "%{name} (%{rate}% su %{amount})"
-    tax_rate: Tasso fiscale
+    tax_rate: Aliquota fiscale
     total: Totale
